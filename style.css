@@ -303,7 +303,6 @@ input[type='text']{
 	margin-bottom: 20px;
 }
 .tool-menu{
-
 	display: flex;
 	justify-content: space-between;
 	margin-bottom: 30px;
@@ -320,17 +319,12 @@ input[type="button"]{
 	background-repeat: no-repeat;
 	background-position: 100px ; 
 	border: 1px solid #F2F2F2;
-
-
 }
 
 .tool-menu ul{
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
-
-
-
 }
 .tool-menu li{
 	padding: 20px;
@@ -350,8 +344,6 @@ input[type="button"]{
 	font-weight:bold;
 	
 }
-
-
 
 .tool-list ul{
 	display: flex;
