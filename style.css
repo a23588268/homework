@@ -288,8 +288,8 @@ body a{
 }
 
 
-input[type="text"]{
-	width: 1230px;
+input[type='text']{
+	width: 85%;
 	border-radius: 16px;
 	background: #F2F2F2;
 	background-image: url('https://github.com/hexschool/2022-web-layout-training/blob/main/2023web-camp/icons/search.png?raw=true');
@@ -526,6 +526,7 @@ input[type="button"]{
 	}
 	.serve-list li{
 		width: 35%;
+		margin-bottom: 20px;
 	}
 	.tool-menu li{
 		width:25%;
@@ -539,7 +540,13 @@ input[type="button"]{
 	}
 	.reply li{
 		width: 48%;
+		margin-bottom: 20px;
 	}
+	input[type='text']{
+		width: 85%;
+	}
+	
+	
 
 
 
@@ -568,6 +575,12 @@ input[type="button"]{
 	.reply li{
 		width: 80%;
 		margin-bottom: 20px;
+	}
+	.grass img{
+		width: 100px;
+	}
+	input[type='text']{
+		width: 85%;
 	}
 
 }
